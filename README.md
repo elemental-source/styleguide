@@ -1,2 +1,1 @@
-# styleguide
-Style Guides
+# Style Guides
